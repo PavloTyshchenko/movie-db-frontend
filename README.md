@@ -67,7 +67,7 @@ Stars: Humphrey Bogart, Ingrid Bergman, Claude Rains, Peter Lorre
 Also you can find such file in frontend folder.
 
 ---
-### Archtecture
+### Architecture
 
 ##### General description
 
