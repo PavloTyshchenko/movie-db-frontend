@@ -9,8 +9,8 @@ Jan Amos Comenius
 ```sh
 $ mkdir movie-db
 $ cd movie-db
-$ git clone https://github.com/
-$ git clone https://github.com/
+$ git clone https://github.com/PavloTyshchenko/movie-db-frontend.git
+$ git clone https://github.com/PavloTyshchenko/movie-db-backend.git
 ```
 
 2 - Install dependencies via [npm](https://www.npmjs.com)
